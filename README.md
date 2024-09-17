@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Prachi! 👋
 
-<!--
-**5225prachi/5225prachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BBA (CA)** student with a passion for **web development** and **creative coding**. I specialize in **front-end development** using:
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+- Front-end: HTML, CSS, JavaScript
+- Backend: Node.js
+- Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning:
+- Python for backend development.
+
+### 📫 How to reach me:
+- **Email**: 5225prachi@gmail.com
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/prachi-agarwal-546507291/)
+
+### 📊 GitHub Stats
+
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5225prachi&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5225prachi&layout=compact&theme=radical)](https://github.com/5225prachi/github-readme-stats)
+
+Feel free to explore my repositories and connect with me!
