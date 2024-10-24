@@ -1,17 +1,12 @@
 # Hi, I'm Prachi! 👋
 
-I'm a **BBA (CA)** student with a passion for **web development** and **creative coding**. I specialize in **front-end development** using:
-- HTML
-- CSS
-- JavaScript
+I'm a **BBA (CA)** student with a passion for **designing** and **creative coding**. 
 
 ### 🛠️ Skills:
 - Front-end: HTML, CSS, JavaScript
-- Backend: Node.js
+- Backend: Node.js, Python, Java
 - Databases: MySQL
-
-### 🌱 Learning:
-- Python for backend development.
+- UI/UX Design: Wireframing, Prototyping, User Research, and Visual Design
 
 ### 📫 How to reach me:
 - **Email**: 5225prachi@gmail.com
