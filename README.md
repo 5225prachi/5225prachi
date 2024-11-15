@@ -1,12 +1,13 @@
 # Hi, I'm Prachi! 👋
 
-I'm a **BBA (CA)** student with a passion for **designing** and **creative coding**. 
+I'm a BBA (CA) student with a passion for designing, creative coding, and data analysis.
 
-### 🛠️ Skills:
-- Front-end: HTML, CSS, JavaScript
-- Backend: Node.js, Python, Java
-- Databases: MySQL
-- UI/UX Design: Wireframing, Prototyping, User Research, and Visual Design
+🛠️ **Skills:**
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Node.js, Python, Java
+- **Databases:** MySQL
+- **UI/UX Design:** Wireframing, Prototyping, User Research, and Visual Design
+- **Data Analysis:** Data Visualization, Statistical Analysis, Data Cleaning, and using tools like Power BI and Python libraries (Pandas, Matplotlib, Seaborn)
 
 ### 📫 How to reach me:
 - **Email**: 5225prachi@gmail.com
