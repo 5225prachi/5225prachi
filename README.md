@@ -2,7 +2,7 @@
 
 I'm a BBA (CA) student with a passion for designing, creative coding, and data analysis.
 
-🛠️ **Skills:**
+### 🛠️ Skills:
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Node.js, Python, Java
 - **Databases:** MySQL
